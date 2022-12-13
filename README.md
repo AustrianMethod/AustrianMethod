@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AustrianMethod
 - 👀 I’m interested in web 3.0, blockchain, decentralized solutions, economy
-- 🌱 I’m currently learning Python, JS, DEX
+- 🌱 I’m currently learning Solidity, JS, DEX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
