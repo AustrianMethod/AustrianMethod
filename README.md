@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @AustrianMethod
-- 👀 I’m interested in  economy, web 3.0, blockchain, decentralized solutions
