@@ -2,9 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN3eTBieDFuNXExejljMnFzbTU2bHIwd2hxNmk5a2Rka216YXcydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/148wdpS9I12Cru/giphy.gif" width="150"/>
 </div>
 
-<h1 align="center">Hi there, I'm Nikolai</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </h1>
+<h1 align="center">Hi there, I'm Nikolai</h1>
 <h3 align="center">Web developer</h3>
 
 <div align="center">
