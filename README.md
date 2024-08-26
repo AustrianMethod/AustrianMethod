@@ -17,7 +17,7 @@
 :man_technologist: About Me :
 <div>
 - :zap: My team and I are working on a game goods marketplace <br>
-- 🌱 I’m currently learning JS, React and other libries and techlogies <br>
+- 🌱 I’m currently learning JS, React and other libraries and technologies <br>
 - 👯 I’m looking to collaborate on fintech/defi <br>
 - 🔭 I'm interested in defi and everything related to web3 development
 </div>
