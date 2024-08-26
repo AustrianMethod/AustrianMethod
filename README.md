@@ -16,8 +16,8 @@
 <div>
 - :zap: My team and I are working on a game goods marketplace <br>
 - 🌱 I’m currently learning JS, React and other libraries and technologies <br>
-- 👯 I’m looking to collaborate on fintech/defi <br>
-- 🔭 I'm interested in defi and everything related to web3 development
+- 👯 I’m looking to collaborate on Fintech/DeFi <br>
+- 🔭 I'm interested in DeFi and everything related to web3 development
 </div>
 
 ---
